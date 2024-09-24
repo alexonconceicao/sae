@@ -1,0 +1,39 @@
+# Diretórios do compilador
+/bin/
+/build/
+/out/
+
+# Arquivos de configuração do IDE
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+/nbproject/
+/icons/
+/executables/
+/innosetup/
+/launch4js/
+/.components
+/*.nb-configuration.xml
+/.vscode/
+
+# Arquivos de dependências
+/*.jar
+/*.war
+/*.ear
+/*.exe
+/*.zip
+
+# Arquivos de logs
+*.log
+
+# Arquivos de saída do Java
+*.class
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de testes
+/test-results/
